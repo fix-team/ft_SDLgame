@@ -1,0 +1,4 @@
+﻿  Game.cpp
+D:\source\repos\ft_game2d_SDL2\ft_game2d_SDL2\Src\Game.cpp(99,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\source\repos\ft_game2d_SDL2\ft_game2d_SDL2\Src\Game.cpp(100,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  ft_game2d_SDL2.vcxproj -> D:\source\repos\ft_game2d_SDL2\x64\Debug\ft_game2d_SDL2.exe
